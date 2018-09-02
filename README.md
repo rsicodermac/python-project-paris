@@ -14,13 +14,13 @@
 
 <h3>How to use the program?</h3>
 <ul>
-<li>Using terminal, go to the directory that the project is save on your machine using cd command</li>
-<li>When you are in the right directory, use pipenv run python numToWord.py, this may install pipenv, if you don't have it on your machine</li>
-<li>You may be asked to download n2w module using pipenv install n2w<li>
+<li>Using terminal, go to the directory that the project is saved on your machine using cd command</li>
+<li>When you are in the right directory, use pipenv run python numToWord.py command, this may install pipenv, if you don't have it on your machine</li>
+<li>You may be asked to download n2w module using pipenv install n2w</li>
 <li>You may be asked to download colorama using pipenv install colorama </li>
 <li>activate your virtual environment by pipenv shell command</li>
 <li>Type the command pipenv run python numToWord.py</li>
-<li>The program will run and ask you to enter a number in a yellow color background with red foreground</li>
+<li>The program will run and asks you to enter a number in a yellow color background with red foreground</li>
 <li>Enter a number</li>
 <li>hit Enter key</li>
 <li>The number converted into words is displayed</li>
