@@ -1,18 +1,18 @@
-# Week 1: python-project-paris
+<h1>Week 1: python-project-paris</h1>
 
-###What does the program do?
+<h3>What does the program do?</h3>
 <p>This project is about a piece of program that asks the user to enter a number and after clicking enter it display the number in words.</p>
 
-###Prerequisite
+<h3>Prerequisite:</h3>
 <p>You should install python3, pip3 and pipenv on your machine</p>
 
-###How to download the program?
+<h3>How to download the program?</h3>
 <ul>
 <li>You can use git clone to pull program into your desired destination system, or</li>
 <li>Download the Zip file</li>
 </ul>
 
-###How to use the program?
+<h3>How to use the program?</h3>
 <ul>
 <li>Using terminal, go to the directory that the project is save on your machine using cd command</li>
 <li>When you are in the right directory, use pipenv run python numToWord.py, this may install pipenv, if you don't have it on your machine</li>
