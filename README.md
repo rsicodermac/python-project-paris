@@ -1,7 +1,7 @@
 <h1>Week 1: python-project-paris</h1>
 
 <h3>What does the program do?</h3>
-<p>This project is about a piece of program that asks the user to enter a number and after clicking enter it display the number in words.</p>
+<p>This project is about a piece of program that asks the user to enter a number and after hitting enter it display the number in words.</p>
 
 <h3>Prerequisite:</h3>
 <p>You should install python3, pip3 and pipenv on your machine</p>
